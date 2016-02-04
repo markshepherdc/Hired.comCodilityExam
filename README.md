@@ -33,7 +33,7 @@ Welcome to the HiredCodilityExam wiki!
 	}
 
 
-```java
+```
 
 ![](https://github.com/markshepherdc/Hired.comCodilityExam/blob/master/Solution2.png)
 
@@ -64,4 +64,4 @@ Welcome to the HiredCodilityExam wiki!
 		return highestCount;
 	}
 
-```java
+```
